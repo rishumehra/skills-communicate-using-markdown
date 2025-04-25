@@ -4,3 +4,6 @@
 #### Unordered Lists
 ##### Ordered Lists
 ###### Media files
+
+Here is an image example:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
